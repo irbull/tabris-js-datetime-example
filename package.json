@@ -1,0 +1,8 @@
+{
+  "title": "OUTATIME",
+  "description": "Tabris.js DateTime and Calendar example.",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "1.0.0"
+  }
+}

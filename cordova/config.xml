@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.eclipsesource.tabris.js.example.cordova-datetime" version="0.0.1">
+  <name>OUTATIME</name>
+  <description>
+   Tabris.js DateTime and Calendar example.
+  </description>
+  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
+   Tabris.js Team
+  </author>
+  <access origin="*" />
+
+  <preference name="EnableDeveloperConsole" value="true"/>
+
+  <gap:plugin name="https://github.com/Sharinglabs/cordova-plugin-datepicker" />
+  <gap:plugin name="fr.smile.cordova.calendar" version="0.0.1" />
+</widget>
